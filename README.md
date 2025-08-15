@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Sam!
 
-<!--
-**Vaishnavi-55/Vaishnavi-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Aspiring Full Stack Developer* | Python | Django | React JS | SQL | AI & Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 *About Me*
+- 🌱 Currently learning *Full Stack Development* (Python, Django, React)
+- 🤖 Exploring *Artificial Intelligence & Machine Learning*
+- 💡 Passionate about *building real-world projects* that make an impact
+- 🎯 Goal: Become a *skilled developer* and contribute to open source
+
+---
+
+### *Tech Stack*
+*Languages:* Python, JavaScript, SQL, HTML, CSS  
+*Frameworks & Tools:* Django, React JS, Git, GitHub, Bootstrap  
+*AI & ML:* Basics of Machine Learning, Scikit-learn (Learning Phase)
+
+---
+
+### 📚 *Currently Learning*
+- Django (Back-end Development)
+- React JS (Front-end Development)
+- AI Concepts & ML Models
+
+---
+
+### 📂 * Projects*
+IN building phase 
+---
+
+
+
+---
+⭐ *Fun fact:* I love learning new tech every day!
+
+**EXPERT IN EVERYTHING ONCE A BEGINEER**
