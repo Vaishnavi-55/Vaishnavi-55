@@ -26,12 +26,6 @@
 
 ---
 
-### 📂 * Projects*
-IN building phase 
----
-
-
-
 ---
 ⭐ *Fun fact:* I love learning new tech every day!
 
