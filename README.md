@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sam!
+# 👋 Hi, I'm Vaishnavi!
 
 🚀 *Aspiring Full Stack Developer* | Python | Django | React JS | SQL | AI & Machine Learning Enthusiast  
 
