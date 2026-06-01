@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaishnavi!
 
-🚀 *Aspiring Full Stack Developer* | Python | Django | React JS | SQL | AI & Machine Learning Enthusiast  
+🚀 *Python Full Stack Developer* | Python | Django | React JS | SQL | AI & Machine Learning Enthusiast  
 
 ---
 
